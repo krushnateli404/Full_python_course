@@ -1,0 +1,1 @@
+This text print in the another.txt file This is appending

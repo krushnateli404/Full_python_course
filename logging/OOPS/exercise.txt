@@ -1,0 +1,1 @@
+This is text file and in this text file i am apply the write operation
